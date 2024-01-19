@@ -3,7 +3,7 @@
 
 ###
 
-(Notes: "🔒" means you need to buy a book from Leetcode)
+(Notes: "🔒" means you need to buy it from Bigfrontend.dev )
 
 
 | # | Title | Solution | Difficulty |
